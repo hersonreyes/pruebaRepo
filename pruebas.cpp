@@ -8,6 +8,6 @@ int main(){
     cout<<"Ingrese numeros 1"<<endl;
     cin>>x>>y;
     //El resultado
-    cout<<"El resultado es "<<y+x<<endl;
+    cout<<"El resultado es el siguienteeee "<<y+x<<endl;
     return 0;
 }

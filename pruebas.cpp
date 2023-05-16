@@ -4,8 +4,10 @@ using namespace std;
 
 int main(){
     int x,y;
-    cout<<"Ingrese numeros"<<endl;
-    cin>>x>>y;
+    cout<<"Ingrese numeros 1"<<endl;
+    cin>>x;
+    cout<<"Ingrese numeros 1"<<endl;
+    cin>>y;
     cout<<"El resultado es "<<x+y<<endl;
     return 0;
 }

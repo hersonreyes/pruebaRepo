@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(){
+    //pruebas
     int x,y;
     cout<<"Ingrese numeros 1"<<endl;
     cin>>x>>y;

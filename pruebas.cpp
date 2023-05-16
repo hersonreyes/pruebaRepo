@@ -7,6 +7,7 @@ int main(){
     int y,x;
     cout<<"Ingrese numeros 1"<<endl;
     cin>>x>>y;
-    cout<<"El resultado es el siguiente"<<y+x<<endl;
+    //El resultado
+    cout<<"El resultado es "<<y+x<<endl;
     return 0;
 }

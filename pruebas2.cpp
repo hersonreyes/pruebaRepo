@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-    cout<<"Estoy en la rama newOption"<<endl;
+    cout<<"Esto es un cambio externo"<<endl;
     return 0;
 }

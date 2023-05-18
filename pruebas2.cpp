@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-    cout<<"Esto es un cambio externo"<<endl;
+    cout<<"Cambio 1"<<endl;
     return 0;
 }
